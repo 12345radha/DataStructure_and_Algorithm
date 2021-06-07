@@ -24,9 +24,10 @@ Linear data structure :-
                         Linked List   
                         
                         
-  Non-Linear data structure:-                      
- Non-Linear
-     |
-    / \
- Tree  Graph
+  Non-Linear data structure:-   
+  
+        Non-Linear
+            |
+           / \
+       Tree  Graph
   
